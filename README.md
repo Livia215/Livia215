@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Livia215
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning React
 - 📫 How to reach me olivia.benoit@epitech.eu
 
 <!---
